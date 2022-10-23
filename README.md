@@ -5,3 +5,4 @@
 ## https://medium.com/coinmonks/bls-signatures-on-bitcoin-fc837c799380
 ## https://a16zcrypto.com/public-randomness-and-randomness-beacons
 ## https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/
+## https://www.youtube.com/watch?v=MEO1kAawOXQ

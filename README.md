@@ -7,3 +7,4 @@
 ## https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/
 ## https://www.youtube.com/watch?v=MEO1kAawOXQ
 ## https://orientusprime.medium.com/adan-z-ye-blockchain-teknolojileri-d4041c632df0
+## https://www.naukri.com/learning/articles/digital-signing-in-blockchain/

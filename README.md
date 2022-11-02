@@ -13,3 +13,4 @@
 ## https://a16zcrypto.com/public-randomness-and-randomness-beacons/
 ## https://dappradar.com/blog/
 ## https://hackernoon.com/its-all-random-video-game-genres-that-excel-at-randomness
+## https://clr.fund/#/

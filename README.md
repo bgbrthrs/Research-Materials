@@ -14,3 +14,6 @@
 ## https://dappradar.com/blog/
 ## https://hackernoon.com/its-all-random-video-game-genres-that-excel-at-randomness
 ## https://clr.fund/#/
+## https://every.to/almanack/tokenomics-102-digging-deeper-on-supply
+## https://every.to/almanack/tokenomics-103-utility
+## https://every.to/almanack/tokenomics-104-how-to-launch-a-token-tactics-questions-wen-etc

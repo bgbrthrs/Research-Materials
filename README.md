@@ -19,3 +19,4 @@
 ## https://every.to/almanack/tokenomics-104-how-to-launch-a-token-tactics-questions-wen-etc
 ## https://crypto.nateliason.com/p/curve-wars?s=w
 ## https://crypto.nateliason.com/p/curve-wars?s=w
+## https://crypto.nateliason.com/p/alchemix-self-paying-loans

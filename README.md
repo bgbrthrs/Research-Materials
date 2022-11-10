@@ -21,3 +21,4 @@
 ## https://crypto.nateliason.com/p/curve-wars?s=w
 ## https://crypto.nateliason.com/p/alchemix-self-paying-loans
 ## https://crypto.nateliason.com/p/alchemix-self-paying-loans
+## https://university.alchemy.com/#faq

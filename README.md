@@ -22,3 +22,4 @@
 ## https://crypto.nateliason.com/p/alchemix-self-paying-loans
 ## https://crypto.nateliason.com/p/alchemix-self-paying-loans
 ## https://university.alchemy.com/#faq
+## https://dune.com/ethpanda/Redacted

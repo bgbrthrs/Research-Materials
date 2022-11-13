@@ -24,3 +24,4 @@
 ## https://university.alchemy.com/#faq
 ## https://dune.com/ethpanda/Redacted
 ## https://l2beat.com/scaling/tvl/
+## https://www.paradigm.xyz/writing

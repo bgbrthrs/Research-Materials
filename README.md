@@ -26,3 +26,4 @@
 ## https://l2beat.com/scaling/tvl/
 ## https://www.paradigm.xyz/writing
 ## https://www.simplilearn.com/javascript-frameworks-what-are-they-how-do-they-work-article#:~:text=In%20a%20similar%20way%2C%20a,application%20they%20are%20working%20on.
+## https://www.daomasters.xyz/resources

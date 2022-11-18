@@ -29,3 +29,4 @@
 ## https://www.daomasters.xyz/resources
 ## https://ns3simulation.com/blockchain-research-topics-for-phd/
 ## https://slogix.in/blockchain-technology/consensus-mechanisms-in-blockchain-technology/
+## https://omnet-manual.com/blockchain-thesis-ideas/

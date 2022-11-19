@@ -30,3 +30,4 @@
 ## https://ns3simulation.com/blockchain-research-topics-for-phd/
 ## https://slogix.in/blockchain-technology/consensus-mechanisms-in-blockchain-technology/
 ## https://omnet-manual.com/blockchain-thesis-ideas/
+## https://slogix.in/blockchain-technology/phd-guidance/

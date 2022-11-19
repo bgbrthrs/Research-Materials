@@ -31,3 +31,5 @@
 ## https://slogix.in/blockchain-technology/consensus-mechanisms-in-blockchain-technology/
 ## https://omnet-manual.com/blockchain-thesis-ideas/
 ## https://slogix.in/blockchain-technology/phd-guidance/
+## [
+](https://uwaterloo.ca/blockchain-research/researchers-and-areas-expertise)

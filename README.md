@@ -33,3 +33,4 @@
 ## https://slogix.in/blockchain-technology/phd-guidance/
 ## https://uwaterloo.ca/blockchain-research/researchers-and-areas-expertise)
 ## https://www.quora.com/What-is-the-best-path-to-learn-blockchain-from-scratch-What-is-its-future-scope
+## https://www.flashbots.net/
